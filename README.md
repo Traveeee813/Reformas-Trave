@@ -6,7 +6,7 @@ html_content = """<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Construcciones XYZ</title>
+  <title>Construcciones Travé</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -68,17 +68,17 @@ html_content = """<!DOCTYPE html>
 <body>
 
 <header>
-  <h1>Construcciones XYZ</h1>
+  <h1>Construcciones Travé</h1>
   <p>Tu socio de confianza en proyectos de construcción</p>
 </header>
 
 <section>
   <h2>Servicios</h2>
   <ul>
-    <li>Reformas integrales</li>
-    <li>Construcción de viviendas</li>
-    <li>Rehabilitación de edificios</li>
-    <li>Obras públicas y privadas</li>
+    <li>Reformas integrales.</li>
+    <li>Colocación de azulejos.</li>
+    <li>Cambio de bañera por plato de ducha.</li>
+    <li>Y un largo etcétera.</li>
   </ul>
 </section>
 
@@ -103,7 +103,7 @@ html_content = """<!DOCTYPE html>
 </section>
 
 <footer>
-  <p>&copy; 2025 Construcciones XYZ - Todos los derechos reservados</p>
+  <p>&copy; 2025 Construcciones Travé - Todos los derechos reservados</p>
 </footer>
 
 </body>
